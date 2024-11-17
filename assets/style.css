@@ -1,0 +1,30 @@
+.stButton button {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.uploadSection {
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px dashed #ccc;
+    margin-bottom: 20px;
+}
+
+.dataTable {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.success-message {
+    color: #28a745;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.error-message {
+    color: #dc3545;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
